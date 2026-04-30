@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Olá 👋, eu sou Guilherme Wallace</h1>
 <h3 align="center">Estudante de Desenvolvimento de Software</h3>
 
@@ -73,4 +72,3 @@ Guilhemewallacefalcao@gmail.com
 <p align="center">
 ⭐ Obrigado por visitar meu perfil
 </p>
-```
