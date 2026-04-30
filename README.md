@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png.png" width="100%" />
+  <img src="banner.png.png" width="100%" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou Guilherme Wallace</h1>
