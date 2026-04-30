@@ -1,24 +1,29 @@
+```md id="2s9qwe"
+<p align="center">
+  <img src="assets/banner.png.png" width="100%" />
+</p>
+
 <h1 align="center">Olá 👋, eu sou Guilherme Wallace</h1>
 <h3 align="center">Estudante de Desenvolvimento de Software</h3>
 
 <p align="center">
-Em constante evolução, transformando aprendizado em projetos reais 🚀
+  Transformando aprendizado em projetos reais 🚀
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Atualmente cursando **Desenvolvimento de Software**  
-💻 Construindo projetos práticos para aprimorar minhas habilidades  
-📚 Estudando desenvolvimento web, back-end e boas práticas  
-🚀 Evoluindo um projeto por vez
+🎓 Estudante de Desenvolvimento de Software  
+💻 Desenvolvendo projetos práticos para evolução constante  
+📚 Estudando desenvolvimento web e back-end  
+🚀 Construindo experiência projeto por projeto
 
 ---
 
-## 🚀 Tecnologias em estudo
+## 🚀 Tecnologias
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,git,github,vscode" />
 </p>
 
@@ -36,13 +41,10 @@ Em constante evolução, transformando aprendizado em projetos reais 🚀
 
 ## 📂 Projetos
 
-Aqui você encontrará projetos voltados para:
-
 ✨ Aplicações Web  
-⚡ APIs  
+⚡ APIs REST  
 🛠 Projetos práticos  
-📚 Estudos e experimentos  
-🚀 Evolução contínua
+📚 Estudos e experimentos
 
 ---
 
@@ -50,25 +52,23 @@ Aqui você encontrará projetos voltados para:
 
 Cada repositório representa uma etapa da minha evolução como desenvolvedor.
 
-Estou construindo experiência prática para me tornar um profissional cada vez mais preparado para o mercado.
+Estou construindo minha base técnica com foco em aprendizado sólido e prática constante.
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver soluções funcionais, aprender continuamente e crescer na área da tecnologia.
+Evoluir como desenvolvedor, construir soluções reais e conquistar oportunidades na área de tecnologia.
 
 ---
 
 ## 📫 Contato
 
-📧 Seu email aqui
-Guilhemewallacefalcao@gmail.com
-
-
+📧 **Guilhemewallacefalcao@gmail.com**
 
 ---
 
 <p align="center">
 ⭐ Obrigado por visitar meu perfil
 </p>
+```
