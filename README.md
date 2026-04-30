@@ -1,4 +1,4 @@
-```md id="2s9qwe"
+
 <p align="center">
   <img src="assets/banner.png.png" width="100%" />
 </p>
